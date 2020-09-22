@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
-gem 
+gem "hashie"
+gem "octokit"
 
 group :development do
 gem "pry"
